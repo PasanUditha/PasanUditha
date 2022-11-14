@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pasan Karunasekara</h1>
 <h3 align="center">Computer systems and Network Engineering</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/80305615/201587158-0ec3a8e6-d86d-410a-9c3b-cc05fecc91b2.png
-">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasanuditha&label=Profile%20views&color=0e75b6&style=flat" alt="pasanuditha" /> </p>
 
