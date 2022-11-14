@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Python, Shell skripting, Docker**
 
-- 👨‍💻 All of my projects are available at [https://www.pasankarunasekara.live/](https://www.pasankarunasekara.live/)
+- 👨‍💻 All of my Details are available at [https://www.pasankarunasekara.live/](https://www.pasankarunasekara.live/)
 
-- 📝 I regularly write articles on [https://medium.com/@Pasan_Karunasekara](https://medium.com/@Pasan_Karunasekara)
+- 📝 I write articles on [https://medium.com/@Pasan_Karunasekara](https://medium.com/@Pasan_Karunasekara)
 
 - 📫 How to reach me **dmpuditha1@gmail.com**
 
-- ⚡ Fun fact **Aim is clear**
+- ⚡ Fun fact **Eat and code**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
