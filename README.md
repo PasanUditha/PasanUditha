@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pasan Karunasekara</h1>
 <h3 align="center">Computer systems and Network Engineering</h3>
 
-<img align="right" alt="coding" width="400" src="banner.gif">
+<img align="right" alt="coding" width="200" src="banner.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasanuditha&label=Profile%20views&color=0e75b6&style=flat" alt="pasanuditha" /> </p>
 
