@@ -32,4 +32,4 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PasanUditha&show_icons=true&theme=dark" alt="PasanUditha" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PasanUditha&show_icons=true&theme=blue" alt="PasanUditha" />
