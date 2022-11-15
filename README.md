@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pasan Karunasekara</h1>
 <h3 align="center">Computer systems and Network Engineering</h3>
 
-<img align="center" alt="coding" width="200" src="[banner.gif](https://64.media.tumblr.com/d69dd87eef8d7175c3fde44a454fb193/f5086ac2846e4387-c1/s640x960/19eff5c6bae8eeb8acd735a414390f05a47b7a75.gif)">
+<img align="center" alt="coding" width="200" src="https://64.media.tumblr.com/d69dd87eef8d7175c3fde44a454fb193/f5086ac2846e4387-c1/s640x960/19eff5c6bae8eeb8acd735a414390f05a47b7a75.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasanuditha&label=Profile%20views&color=0e75b6&style=flat" alt="pasanuditha" /> </p>
 
