@@ -1,4 +1,4 @@
-![logo](https://github.com/PasanUditha/PasanUditha/blob/main/Git%20hub%20banner.png)
+![logo](https://github.com/PasanUditha/PasanUditha/blob/main/pasan.gif)
 <h1 align="center">Hi 👋, I'm Pasan Karunasekara</h1>
 <h3 align="center">Computer systems and Network Engineering</h3>
 
